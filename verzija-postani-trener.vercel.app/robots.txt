@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://postani-trener-demo.example/sitemap.xml

@@ -7,6 +7,9 @@ Osam stranica: hrvatski (`/`, `/predavaci`, `/kurikulum`, `/price`) i engleski
 Bez frameworka, bez ovisnosti u runtimeu, bez animacijskih biblioteka.
 Generator je jedna Node skripta koja iz `/content` ispisuje HTML u `/dist`.
 
+> Starija verzija, ona objavljena na https://postani-trener.vercel.app, nalazi se
+> cijela u mapi [`verzija-postani-trener.vercel.app/`](verzija-postani-trener.vercel.app/).
+
 ## Pokretanje
 
 ```bash

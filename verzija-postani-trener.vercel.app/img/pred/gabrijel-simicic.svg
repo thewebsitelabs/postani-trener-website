@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img" aria-label="Gabrijel Šimičić">
+  <defs>
+    <linearGradient id="g8" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0e18"/>
+      <stop offset="1" stop-color="#05070d"/>
+    </linearGradient>
+    <radialGradient id="r8" cx="30%" cy="26%" r="62%">
+      <stop offset="0" stop-color="#1747b8" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#1747b8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="p8" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M80 0H0v80" fill="none" stroke="#f2f5fa" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="1000" fill="url(#g8)"/>
+  <rect width="800" height="1000" fill="url(#p8)"/>
+  <rect width="800" height="1000" fill="url(#r8)"/>
+  <text x="400" y="560" text-anchor="middle"
+        font-family="Archivo, Helvetica, Arial, sans-serif" font-weight="800" font-size="300"
+        letter-spacing="-8" fill="#1747b8" fill-opacity=".92">GŠ</text>
+  <rect x="60" y="890" width="86" height="2" fill="#1747b8"/>
+</svg>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://postani-trener-demo.example/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://postani-trener-demo.example/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://postani-trener-demo.example/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://postani-trener-demo.example/index.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://postani-trener-demo.example/en/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://postani-trener-demo.example/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://postani-trener-demo.example/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://postani-trener-demo.example/index.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://postani-trener-demo.example/predavaci.html</loc>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://postani-trener-demo.example/predavaci.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://postani-trener-demo.example/en/instructors.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://postani-trener-demo.example/predavaci.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://postani-trener-demo.example/en/instructors.html</loc>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://postani-trener-demo.example/predavaci.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://postani-trener-demo.example/en/instructors.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://postani-trener-demo.example/predavaci.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://postani-trener-demo.example/kurikulum.html</loc>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://postani-trener-demo.example/kurikulum.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://postani-trener-demo.example/en/curriculum.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://postani-trener-demo.example/kurikulum.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://postani-trener-demo.example/en/curriculum.html</loc>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://postani-trener-demo.example/kurikulum.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://postani-trener-demo.example/en/curriculum.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://postani-trener-demo.example/kurikulum.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://postani-trener-demo.example/price.html</loc>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://postani-trener-demo.example/price.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://postani-trener-demo.example/en/stories.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://postani-trener-demo.example/price.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://postani-trener-demo.example/en/stories.html</loc>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://postani-trener-demo.example/price.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://postani-trener-demo.example/en/stories.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://postani-trener-demo.example/price.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>
